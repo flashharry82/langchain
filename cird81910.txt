@@ -1,0 +1,230 @@
+CIRD81910 - R&D tax relief: conditions to be satisfied: DSIT Guidelines (2023) - text
+
+Note on the text below;
+
+These guidelines were introduced by Statutory Instrument 293 of 2023 and apply to accounting periods which begin after 31 March 2023. Please continue to refer to the 2004 guidelines (CIRD 81900) when preparing claims for accounting periods which begin before 1 April 2023.
+
+Since it is not possible to include individual words in bold in the CIRD you might, given the importance which paragraph 2 of the guidelines gives to those words, wish to use the version which is available on the HM Government Department for Science, Innovation & Technology website.
+
+These Guidelines are issued by the Secretary of State for the purposes of Section 1006 Income Tax Act 2007. They replace the previous Guidelines issued 5 March 2004, updated 6 December 2010.
+
+1. Research and development (‘R&D’) is defined for tax purposes in Section 1006 Income Tax Act 2007 [footnote 1]. This says the definition of R&D for tax purposes follows generally accepted accounting practice. The accountancy definition is then modified for tax purposes by these Guidelines, which are given legal force by Parliamentary Regulations. These Guidelines explain what is meant by R&D for a variety of tax purposes, but the rules of particular tax schemes may restrict the qualifying expenditure [footnote 2].
+
+2. In these Guidelines a number of terms are used which are intended to have a special meaning for the purpose of the Guidelines. Such terms are highlighted on first appearance and defined later.
+
+The definition of research and development
+
+3. R&D for tax purposes takes place when a project seeks to achieve an advance in science or technology.
+
+4. The activities which directly contribute to achieving this advance in science or technology through the resolution of scientific or technological uncertainty are R&D.
+
+5. Certain qualifying indirect activities related to the project are also R&D. Activities other than qualifying indirect activities which do not directly contribute to the resolution of the project’s scientific or technological uncertainty are not R&D.
+
+Advance in science or technology
+
+6. An advance in science or technology means an advance in overall knowledge or capability in a field of science or technology (not a company’s own state of knowledge or capability alone). This includes the adaptation of knowledge or capability from another field of science or technology in order to make such an advance where this adaptation was not readily deducible.
+
+7. An advance in science or technology may have tangible consequences (such as a new or more efficient cleaning product, or a process which generates less waste) or more intangible outcomes (new knowledge or cost improvements, for example).
+
+8. A process, material, device, product, service or source of knowledge does not become an advance in science or technology simply because science or technology is used in its creation. Work which uses science or technology but which does not advance scientific or technological capability as a whole is not an advance in science or technology.
+
+9. A project which seeks to, for example,
+
+a) extend overall knowledge or capability in a field of science or technology; or
+b) create a process, material, device, product or service which incorporates or represents an increase in overall knowledge or capability in a field of science or technology; or
+c) make an appreciable improvement to an existing process, material, device, product or service through scientific or technological changes; or
+d) use science or technology to duplicate the effect of an existing process, material, device, product or service in a new or appreciably improved way (e.g. a product which has exactly the same performance characteristics as existing models, but is built in a fundamentally different manner)
+
+will therefore be R&D.
+
+10. Even if the advance in science or technology sought by a project is not achieved or not fully realised, R&D still takes place.
+
+11. If a particular advance in science or technology has already been made or attempted but details are not readily available (for example, if it is a trade secret), work to achieve such an advance can still be an advance in science or technology.
+
+12. However, the routine analysis, copying or adaptation of an existing product, process, service or material, will not be an advance in science or technology.
+
+Scientific or technological uncertainty
+
+13. Scientific or technological uncertainty exists when knowledge of whether something is scientifically possible or technologically feasible, or how to achieve it in practice, is not readily available or deducible by a competent professional working in the field. This includes system uncertainty. Scientific or technological uncertainty will often arise from turning something that has already been established as scientifically feasible into a cost-effective, reliable and reproducible process, material, device, product or service.
+
+14. Uncertainties that can readily be resolved by a competent professional working in the field are not scientific or technological uncertainties. Similarly, improvements, optimisations and fine-tuning which do not materially affect the underlying science or technology do not constitute work to resolve scientific or technological uncertainty.
+
+Other definitions
+
+Science
+
+15A. Science is the systematic study of the nature and behaviour of the physical and material universe. Work in the arts, humanities and social sciences, including economics, is not science for the purpose of these Guidelines.
+
+15B. Mathematical techniques are frequently used in science. From April 2023 mathematical advances in themselves are treated as science for the purposes of these Guidelines, whether or not they are advances in representing the nature and behaviour of the physical and material universe.
+
+16. These Guidelines apply equally to work in any branch or field of science.
+
+Technology
+
+17. Technology is the practical application of scientific principles and knowledge, where ‘scientific’ is based on the definition of science above.
+
+18. These Guidelines apply equally to work in any branch or field of technology.
+
+Project
+
+19. A project consists of a number of activities conducted to a method or plan in order to achieve an advance in science or technology. It is important to get the boundaries of the project correct. It should encompass all the activities which collectively serve to resolve the scientific or technological uncertainty associated with achieving the advance, so it could include a number of different sub-projects. A project may itself be part of a larger commercial project, but that does not make the parts of the commercial project that do not address scientific or technological uncertainty into R&D.
+
+Overall knowledge or capability
+
+20. Overall knowledge or capability in a field of science or technology means the knowledge or capability in the field which is publicly available or is readily deducible from the publicly available knowledge or capability by a competent professional working in the field. Work which seeks an advance relative to this overall knowledge or capability is R&D.
+
+21. Overall knowledge or capability in a field of science or technology can still be advanced (and hence R&D can still be done) in situations where:
+
+several companies are working at the cutting edge in the same field, and are doing similar work independently; or
+work has already been done but this is not known in general because it is a trade secret, and another company repeats the work; or
+it is known that a particular advance in science or technology has been achieved, but the details of how are not readily available.
+22. However, the routine analysis, copying or adaptation of an existing process, material, device, product or service will not advance overall knowledge or capability, even though it may be completely new to the company or the company’s trade.
+
+Appreciable improvement
+
+23. Appreciable improvement means to change or adapt the scientific or technological characteristics of something to the point where it is ‘better’ than the original. The improvement should be more than a minor or routine upgrading, and should represent something that would generally be acknowledged by a competent professional working in the field as a genuine and non-trivial improvement. Improvements arising from the adaptation of knowledge or capability from another field of science or technology are appreciable improvements if they would generally be acknowledged by a competent professional working in the field as a genuine and non-trivial improvement.
+
+24. Improvements which arise from taking existing science or technology and deploying it in a new context (e.g. a different trade) with only minor or routine changes are not appreciable improvements. A process, material, device, product or service will not be appreciably improved if it simply brings a company into line with overall knowledge or capability in science or technology, even though it may be completely new to the company or the company’s trade.
+
+25. The question of what scale of advance would constitute an appreciable improvement will differ between fields of science and technology and will depend on what a competent professional working in the field would regard as a genuine and non-trivial improvement.
+
+Directly contribute
+
+26. To directly contribute to achieving an advance in science or technology, an activity (or several activities in combination) must attempt to resolve an element of the scientific or technological uncertainty associated with achieving the advance.
+
+27. Activities which directly contribute to R&D include:
+
+a) activities to create or adapt software, materials or equipment needed to resolve the scientific or technological uncertainty, provided that the software, material or equipment is created or adapted solely for use in R&D;
+b) scientific or technological planning activities; and
+c) scientific or technological design, testin g and analysis undertaken to resolve the scientific or technological uncertainty.
+
+28. Activities which do not directly contribute to the resolution of scientific or technological uncertainty include:
+
+a) the range of commercial and financial steps necessary for innovation and for the successful development and marketing of a new or appreciably improved process, material, device, product or service;
+b) work to develop non-scientific or non-technological aspects of a new or appreciably improved process, material, device, product or service;
+c) the production and distribution of goods and services;
+d) administration and other supporting services;
+e) general support services (such as transportation, storage, cleaning, repair, maintenance and security); and
+f) qualifying indirect activities.
+
+System uncertainty
+
+29. System uncertainty is scientific or technological uncertainty that results from the complexity of a system rather than uncertainty about how its individual components behave. For example, in electronic devices, the characteristics of individual components or chips are fixed, but there can still be uncertainty about the best way to combine those components to achieve an overall effect. However, assembling a number of components (or software sub-programs) to an established pattern, or following routine methods for doing so, involves little or no scientific or technological uncertainty.
+
+30. Similarly, work on combining standard technologies, devices, and/or processes can involve scientific or technological uncertainty even if the principles for their integration are well known. There will be scientific or technological uncertainty if a competent professional working in the field cannot readily deduce how the separate components or sub-systems should be combined to have the intended function.
+
+Qualifying indirect activity
+
+31. These are activities which form part of a project but do not directly contribute to the resolution of the scientific or technological uncertainty. They are:
+
+a) scientific and technical information services, insofar as they are conducted for the purpose of R&D support (such as the preparation of the original report of R&D findings);
+b) indirect supporting activities such as maintenance, security, administration and clerical activities, and finance and personnel activities, insofar as undertaken for R&D;
+c) ancillary activities essential to the undertaking of R&D (e.g. taking on and paying staff, leasing laboratories and maintaining research and development equipment including computers used for R&D purposes);
+d) training required to directly support an R&D project;
+e) research by students and researchers carried out at universities;
+f) research (including related data collection) to devise new scientific or technological testing, survey, or sampling methods, where this research is not R&D in its own right; and
+g) feasibility studies to inform the strategic direction of a specific R&D activity.
+
+32. Activities not described in paragraph 31 are not qualifying indirect activities.
+
+Commentary on particular questions which arise
+
+Start and end of R&D
+
+33. R&D begins when work to resolve the scientific or technological uncertainty starts, and ends when that uncertainty is resolved or work to resolve it ceases. This means that work to identify the requirements for the process, material, device, product or service, where no scientific or technological questions are at issue, is not R&D.
+
+34. R&D ends when knowledge is codified in a form usable by a competent professional working in the field, or when a prototype or pilot plant with all the functional characteristics of the final process, material, device, product or service is produced.
+
+35. Although the R&D for a process, material, device, product or service may have ended, new problems which involve scientific or technological uncertainty may emerge after it has been turned over to production or put into use. The resolution of these problems may require new R&D to be carried out. But there is a distinction to be drawn between such problems and routine fault fixing.
+
+Planning as part of R&D
+
+36. Scientific or technological planning activities associated with a project directly contribute to resolving the scientific or technological uncertainty associated with the project, and are therefore R&D. These include defining scientific or technological objectives, assessing scientific or technological feasibility, identifying particular scientific or technological uncertainties, estimating development time, schedule, and resources of the R&D, and high-level outlining of the scientific or technical work, as well as the detailed planning and management of the work.
+
+37. Elements of a company’s planning activity relating to a project but not directly contributing to the resolution of scientific or technological uncertainty, such as identifying or researching market niches in which R&D might benefit a company, or examination of a project’s financial, marketing, and legal aspects, fall outside the category of scientific or technological planning, and are therefore not R&D
+
+Abortive projects
+
+38. Not all projects succeed in their aims. What counts is whether there is an intention to achieve an advance in science or technology, not whether ultimately the associated scientific or technological uncertainty is completely resolved, or resolved to the degree intended. Scientific or technological planning activities associated with projects which are not taken forward (e.g. because of insurmountable technical or commercial challenges) are still R&D.
+
+Prototypes, pilot plants
+
+39. A prototype is an original model on which something new or appreciably improved is patterned, and of which all things of the same type are representations or copies. It is a basic experimental model possessing the essential characteristics of the intended process, material, device, product or service. The design, construction, and testing of prototypes generally fall within the scope of R&D for tax purposes. But once any modifications necessary to reflect the test findings have been made to the prototypes, and further testing has been satisfactorily completed, the scientific or technological uncertainty has been resolved and further work will not be R&D.
+
+40. Similarly the construction and operation of pilot plants while assessing their operations is R&D until the scientific or technological uncertainty associated with the intended advance in science or technology has been resolved.
+
+Design
+
+41. When achieving design objectives requires the resolution of scientific or technological uncertainty within a project, work to do this will be R&D. Design activities which do not directly contribute to the resolution of scientific or technological uncertainty within a project are not R&D.
+
+Cosmetic and aesthetic effects
+
+42. Cosmetic and aesthetic qualities are not of themselves science or technology, and so work to improve the cosmetic or aesthetic appeal of a process, material, device, product or service would not in itself be R&D. However, work to create a desired cosmetic or aesthetic effect through the application of science or technology can require a scientific or technological advance, and resolving the scientific or technological uncertainty associated with such a project would therefore be R&D.
+
+Content delivered through science or technology
+
+43. Information or other content which is delivered through a scientific or technological medium is not of itself science or technology. However, improvements in scientific or technological means to create, manipulate and transfer information or other content can be scientific or technological advances, and resolving the scientific or technological uncertainty associated with such projects would therefore be R&D.
+
+Examples / illustrations
+
+Examples in these Guidelines are illustrative, designed to cast light on the principles explained in the Guidelines, and should be read in that context.
+
+A. The R&D process
+
+A1. A company conducts extensive market research to learn what technical and design characteristics a new DVD player should have in order to be an appealing product. This work is not R&D (paragraph 37). However, it does identify a potential project to create a DVD player incorporating a number of technological improvements which the company’s R&D staff (who are competent professionals) regard as genuine and nontrivial. This project would be seeking to develop an appreciably improved DVD player (paragraphs 23-25) and would therefore be seeking to achieve an advance in science or technology (paragraph 9(c)).
+
+A2. The company then decides on a detailed specification for the desired new product, and devises a plan for developing it. Some elements of this plan involve planning of activities which directly contribute to resolving the project’s scientific or technological uncertainties (such as the system uncertainty associated with an improved control mechanism for the laser that ‘reads’ the DVD). This element of planning is R&D (paragraph 36), as are the activities themselves (paragraph 4). Other elements of the plan focus on obtaining intellectual property protection or cosmetic design decisions, for example, which do not directly contribute to resolving the project’s scientific or technological uncertainties and are not qualifying indirect activities (paragraph 31) and are therefore not R&D. Neither this planning (paragraph 37) nor these activities (paragraph 28) are R&D.
+
+A3. The scientific or technological work culminates in the creation of a series of prototype DVD players, and ultimately a ‘final’ prototype is produced and tested which possesses the essential characteristics of the intended product (circuit board design, performance characteristics, etc.). All the activities which directly contributed to resolving the scientific or technological uncertainty of creating the DVD player up to this point (such as the testing of successive prototypes) are R&D (paragraphs 34 and 39).
+
+A4. Several copies of this prototype are made (not R&D; paragraphs 4-5 and 26-28) and distributed to a group of consumers to test their reactions (not R&D; paragraph 28((a)). Some of these consumers report concerns about the noise level of the DVD player in operation. Additional work is done to resolve this problem. If this involves a routine adjustment of the existing prototype (i.e. no scientific or technological uncertainty) then it will not be R&D (paragraph 14); if it involves more substantial changes (i.e. there is scientific or technological uncertainty to resolve) then it will be R&D.
+
+B. Equal applicability in any branch or field of science or technology
+
+B1. The Guidelines apply equally to work in any branch or field of science or technology (paragraphs 15-18). This means that work in software engineering, for example, is subject to the same fundamental criteria for being R&D as work in textile science, or nanotechnology, or anything else.
+
+B2. This equality also applies to the methods used to resolve scientific or technological uncertainty. For example, it is sometimes possible to implement functionality in a product or process by means of software or of hardware. As long as the scientific or technological uncertainty cannot readily be resolved by a competent professional working in the field, hardware and software methods are both equally R&D in these circumstances.
+
+C. Abortive projects
+
+C1. Not all projects achieve the advance in science or technology they are seeking. For example, work to insert a particular gene into a gene sequence may simply fail, while an attempt to appreciably increase the life of a battery may only yield a marginal improvement. In both cases, the project seeks to achieve an advance in science or technology and work to resolve the scientific or technological uncertainty would be R&D (paragraph 10).
+
+D. Advance in science or technology
+
+D1. Searching for the molecular structures of possible new drugs would be an advance in science or technology, because it applies existing knowledge of science (which compounds are known to cause particular physiological effects) in search of new or improved active compounds (paragraph 9(b)). This is true even if the method used to search for those molecular structures (e.g. running a computer programme on a particular set of data) is itself entirely routine; the activity directly contributes to the resolution of scientific or technological uncertainty (paragraph 27(c)) and so would be R&D (paragraph 4). Work to identify new uses of existing compounds would also be creative work in science or technology, because it seeks new scientific knowledge about those molecules (paragraph 9(a)).
+
+D2. However, the development of software intended for the analysis of market research data (which is not scientific or technological knowledge; paragraphs 15-18) which was not expected to result in the development of a scientific or technological advance in the field of software as a whole (such as an algorithm which extends overall knowledge or capability in the field of software) would not be R&D (paragraph 8). Work to adapt such software to analyse, say, customer spending patterns would also not be R&D.
+
+D3. An advance in science or technology need not imply an absolute improvement in the performance of a process, material, device, product or service. For example, the existence of high-fidelity audio equipment does not prevent a project to create lower-performance equipment from being an advance in science or technology (for instance, if it incorporated technological improvements leading to lower cost through more efficient circuit design or speaker construction) (paragraph 9(d)).
+
+E. Scientific or technological uncertainty
+
+E1. A firm’s project involves finding a new active ingredient for weed-killer (an advance in overall knowledge or capability in the particular field of science or technology; paragraphs 6, 20), and developing a formula incorporating the new active ingredient for use in a commercial product (paragraph 9(b) or (c)). Both of these would constitute an advance in science or technology.
+
+E2. In order to achieve this advance, a programme of investigation by computer to pick likely ingredients and the systematic testing of possible ingredients and products based on those ‘trial’ ingredients is undertaken. The work involves the adaptation of existing software to tackle the specific problem, and product formulation and testing using established methods. This investigation and testing evaluates the weed-killing performance and other relevant characteristics of the formulations (for example, toxicity to humans and wildlife, water solubility, adhesion to weeds, damage done to other plants). All of these activities would therefore be R&D (paragraphs 4, 26, 27).
+
+E3. The company also does work to assess what characteristics a new weed-killing product should have in order to appeal to consumers. This activity does not directly contribute to the resolution of scientific or technological uncertainty (paragraph 28(a)) and is not a qualifying indirect activity (paragraph 31), and is therefore not R&D (paragraph 4).
+
+F. Direct contribution to the resolution of scientific or technological uncertainty
+
+F1. Work to compare the effectiveness of two possible designs for controlling part of a new manufacturing process would directly contribute to resolving the scientific or technological uncertainty inherent in the new process, and hence the activity would be R&D (paragraphs 4,26). But work to raise finance for the project, while indirectly contributing to the resolution of scientific or technological uncertainty (e.g. by paying for work) does not of itself help resolve the uncertainty, and hence is not R&D (paragraph 28(a)). Human Resources work to support the R&D is a qualifying indirect activity (paragraph 31) and hence is also R&D (paragraph 5), though it does not directly contribute to the resolution of scientific or technological uncertainty (paragraph 28(e) and (f)) [footnote 3].
+
+G. Testing as part of R&D
+
+G1. Scientific or technological testing and analysis which directly contributes to the resolution of scientific or technological uncertainty is R&D (paragraph 26). So for example if testing work is carried out as part of the development of a pilot plant, this would be R&D, but once the design of the ‘final’ pilot plant had been finalised and tested, any further testing would not be R&D (paragraph 39). However, if flaws in the design became apparent later on, then work to remedy them would be R&D if they could not readily be resolved by a competent professional working in the field (in other words, if there was scientific or technological uncertainty around how to fix the problem; paragraph 14).
+
+H. Cosmetic and aesthetic effects
+
+H1. A company is seeking to make a water-breathable fabric for use in hiking gear. A test fabric with the required physical characteristics is produced through R&D. This new fabric is then produced in small quantities (not R&D) and market tested with a number of trial users. The user tests are not R&D, because they are concerned with testing the commercial potential of the new material and assessing its appeal to users (paragraph 42).
+
+H2. One of the results of these tests is that users do not like the feel of the new fabric against their skin, and dislike its shiny appearance. The company decides to investigate variants of its new fabric, which require significant changes to the material’s weave and physical structure, to overcome these problems. Because there is scientific and technological uncertainty around whether a material with the desired physical characteristics can be made, the R&D continues.
+
+J. Project, prototype and end of R&D
+
+J1. A company develops new spark plugs for use in an existing petrol engine. The scientific or technological uncertainty associated with this work is resolved once prototype plugs have been fully tested in the engine. The activities directly contributing to this work, including the construction of prototypes and their testing in the engine, would be R&D.
+
+J2. The same company decides to design a new engine to incorporate the new spark plugs, involving a new combustion chamber design, lighter materials and other improvements such that the overall engine is appreciably improved (it uses less petrol to achieve slightly greater power output performance, and generates less pollution than current models). The activities directly contributing to this work, including the design of the separate components (not all of which need be different from those used in previous models) and their integration into a new engine, are R&D. The uncertainty associated with this work is resolved, and R&D is complete. once a functionally final prototype has been tested.
+
+For the purposes of research and development allowances (Part 6 Capital Allowances Act 2001) this definition is extended to include oil and gas exploration and appraisal as defined in Section 1003 of Income Tax Act 2007. These Guidelines apply to this extended definition as well. ↩
+The original footnotes 2 and 3 to the 2004 Guidelines (which were not themselves part of the Guidelines) have been removed. This is because those footnotes stated that the qualifying indirect activities (QIAs) listed in para 31 are R&D, but do not attract R&D tax credits. In fact, whether or not expenditure on the QIAs qualifies for R&D tax relief depends on a number of factors, but there is no blanket exclusion. For further explanation see, for example, HMRC guidance: Corporate Intangibles Research and Development Manual
+These revised footnotes are not part of the Guidelines. Revised footnote prepared by Department for Business, Innovation and Skills in consultation with HMRC December 2010. ↩ 3. See footnote 2. ↩
